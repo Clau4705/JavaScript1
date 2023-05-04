@@ -10,7 +10,7 @@ abaixo:
 - JavaScript
 
 ## 📝 A página
-<video src="./src/img/GIF-Readme.mp4"></video>
+<img src="https://lovely-sprinkles-74df3d.netlify.app/">
 
 
 
