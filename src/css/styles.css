@@ -9,6 +9,7 @@
 }
 
 body {
+    padding: 40px;
     background: #721919;
     display:flex;
     justify-content: center;
