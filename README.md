@@ -10,7 +10,8 @@ abaixo:
 - JavaScript
 
 ## 📝 A página
-<img src="">
+<video src="./GIF-Readme.mp4"></video>
+
 
 
 ## 👩‍💻 Dev's
