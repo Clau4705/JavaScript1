@@ -10,7 +10,7 @@ abaixo:
 - JavaScript
 
 ## 📝 A página
-<video src="./GIF-Readme.mp4"></video>
+<video src="./src/img/GIF-Readme.mp4"></video>
 
 
 
