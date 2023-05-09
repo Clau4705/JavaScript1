@@ -10,7 +10,7 @@ abaixo:
 - JavaScript
 
 ## 📝 A página
-<img src="src/img/img-code-convert_files">
+<video src="./src/img/GIF-Readme.mp4">
 <a href="https://lovely-sprinkles-74df3d.netlify.app/" target= "_blank">Acesse a página online</a>
 
 
