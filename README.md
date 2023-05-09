@@ -10,8 +10,8 @@ abaixo:
 - JavaScript
 
 ## 📝 A página
-<video src="./src/img/GIF-Readme.mp4">
-<a href="https://lovely-sprinkles-74df3d.netlify.app/" target= "_blank">Acesse a página online</a>
+<img src="./src/img/gif.gif"></img>
+<a href="https://clau4705.github.io/JavaScript1/" target= "_blank">Acesse a página online</a>
 
 
 
